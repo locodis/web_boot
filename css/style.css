@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Hanken+Grotesk:ital,wght@1,200&family=Inter:wght@700&family=Lato&family=Passions+Conflict&family=Poppins:ital,wght@0,300;1,300&family=Raleway:wght@300&family=Titillium+Web:wght@200&display=swap');
+
+
+.resimSlider{
+    height: 600px;
+}
+body{
+    padding-top: 50px;
+    font-family: "Raleway", sans-serif;
+}
+.hakkimizda{
+    background: lightgray;
+}
+.ayrac{
+    border-top: 3px solid #100c7dfe;
+    margin: 25px auto;
+    max-width: 260px;
+
+}
+.igri{
+color: #343a38;
+position: relative;
+top: -88px;
+border: 10px solid lightgray;
+background-color: lightgray;
+}
+.ibeyaz{
+    color: #062e30d0;
+position: relative;
+top: -88px;
+border: 10px solid white;
+background-color: white;
+
+}
+.ekipCard>img:hover{
+    opacity: 0.7;
+
+}
+.galeri{
+    background: lightgray;
+}
