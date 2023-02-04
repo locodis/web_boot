@@ -39,3 +39,6 @@ background-color: white;
 .galeri{
     background: lightgray;
 }
+.figure:hover{
+    opacity: 0.8;
+}
